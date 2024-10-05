@@ -1,0 +1,163 @@
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style type="text/css">/* Dynamic CSS: For no styles in head, copy and put the css below in your child theme's style.css, disable dynamic styles */body { font-family:'Ubuntu', Arial, sans-serif;font-size:1.06rem }@media only screen and (min-width: 720px) {
+        .nav > li { font-size:1.06rem; }
+      }.container-inner { max-width: 1600px; }::selection { background-color: #6d9fbc; }
+::-moz-selection { background-color: #6d9fbc; }a,.themeform label .required,#flexslider-featured .flex-direction-nav .flex-next:hover,#flexslider-featured .flex-direction-nav .flex-prev:hover,.post-hover:hover .post-title a,.post-title a:hover,.s1 .post-nav li a:hover i,.content .post-nav li a:hover i,.post-related a:hover,.s1 .widget_rss ul li a,#footer .widget_rss ul li a,.s1 .widget_calendar a,#footer .widget_calendar a,.s1 .alx-tab .tab-item-category a,.s1 .alx-posts .post-item-category a,.s1 .alx-tab li:hover .tab-item-title a,.s1 .alx-tab li:hover .tab-item-comment a,.s1 .alx-posts li:hover .post-item-title a,#footer .alx-tab .tab-item-category a,#footer .alx-posts .post-item-category a,#footer .alx-tab li:hover .tab-item-title a,#footer .alx-tab li:hover .tab-item-comment a,#footer .alx-posts li:hover .post-item-title a,.comment-tabs li.active a,.comment-awaiting-moderation,.child-menu a:hover,.child-menu .current_page_item > a,.wp-pagenavi a{ color: #6d9fbc; }.themeform input[type="submit"],.themeform button[type="submit"],.s1 .sidebar-top,.s1 .sidebar-toggle,#flexslider-featured .flex-control-nav li a.flex-active,.post-tags a:hover,.s1 .widget_calendar caption,#footer .widget_calendar caption,.author-bio .bio-avatar:after,.commentlist li.bypostauthor > .comment-body:after,.commentlist li.comment-author-admin > .comment-body:after{ background-color: #6d9fbc; }.post-format .format-container { border-color: #6d9fbc; }.s1 .alx-tabs-nav li.active a,#footer .alx-tabs-nav li.active a,.comment-tabs li.active a,.wp-pagenavi a:hover,.wp-pagenavi a:active,.wp-pagenavi span.current{ border-bottom-color: #6d9fbc!important; }.s2 .post-nav li a:hover i,
+.s2 .widget_rss ul li a,
+.s2 .widget_calendar a,
+.s2 .alx-tab .tab-item-category a,
+.s2 .alx-posts .post-item-category a,
+.s2 .alx-tab li:hover .tab-item-title a,
+.s2 .alx-tab li:hover .tab-item-comment a,
+.s2 .alx-posts li:hover .post-item-title a { color: #6d9fbc; }
+.s2 .sidebar-top,.s2 .sidebar-toggle,.post-comments,.jp-play-bar,.jp-volume-bar-value,.s2 .widget_calendar caption{ background-color: #6d9fbc; }.s2 .alx-tabs-nav li.active a { border-bottom-color: #6d9fbc; }
+.post-comments span:before { border-right-color: #6d9fbc; }
+        #nav-header.nav-container { background-color: #33363b; }
+@media only screen and (min-width: 720px) {
+  #nav-header .nav ul { background-color: #33363b; }
+}
+        .site-title a img { max-height: 80px; }img { -webkit-border-radius: 3px; border-radius: 3px; }body {background: #6d9fbc url(https://thelastgame.ru/wp-content/uploads/2017/07/games_of_201.jpg) no-repeat center center;background-attachment:fixed;background-size: cover;}
+</style>
+<style type="text/css" id="wp-custom-css">
+			/*
+Здесь можно добавить ваши CSS-стили.
+
+Нажмите на значок помощи выше, чтобы узнать больше.
+
+Use this field to test small chunks of CSS code. For important CSS customizations, it is recommended to modify the style.css file of a child theme.
+http//codex.wordpress.org/Child_Themes
+*/
+
+#header {
+    background: none;  
+}
+.nav-wrap{    background: #383636;
+}
+#footer-widgets{
+background: #d5d5d5;
+margin-top:-30px;
+
+}
+#footer{
+    width: auto;
+    max-width: 1600px;	
+    margin: 0 auto;
+}
+
+.pad {padding: 10px 30px 10px}
+.single .post-title {margin-top: -20px;}
+
+@media only screen and (min-width: 720px) {
+.single .post-title { font-size: 30px;}
+}
+		</style>
+<style>		
+	.button {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 24px;
+    border: 1px solid #4b74a6;
+    border-radius: 8px;
+    background: #7bbeff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#7bbeff), to(#4b74a6));
+    background: -moz-linear-gradient(top, #7bbeff, #4b74a6);
+    background: linear-gradient(to bottom, #7bbeff, #4b74a6);
+    -webkit-box-shadow: #80c6ff 0px 0px 40px 0px;
+    -moz-box-shadow: #80c6ff 0px 0px 40px 0px;
+    box-shadow: #80c6ff 0px 0px 40px 0px;
+    text-shadow: #365377 1px 1px 1px;
+    font: normal normal bold 20px tahoma;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,
+.button:focus {
+    border: 1px solid ##6ba5ed;
+    background: #94e4ff;
+    background: -webkit-gradient(linear, left top, left bottom, from(#94e4ff), to(#5a8bc7));
+    background: -moz-linear-gradient(top, #94e4ff, #5a8bc7);
+    background: linear-gradient(to bottom, #94e4ff, #5a8bc7);
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:active {
+    background: #4b74a6;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4b74a6), to(#4b74a6));
+    background: -moz-linear-gradient(top, #4b74a6, #4b74a6);
+    background: linear-gradient(to bottom, #4b74a6, #4b74a6);
+}
+
+
+
+
+
+
+
+
+
+
+.thelastgame_load {
+  display: inline-block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  cursor: pointer;
+  padding: 11px 15px;
+  border: 1px solid #000000;
+  -webkit-border-radius: 17px / 41px;
+  border-radius: 17px / 41px;
+  font-size:20px;
+  font-weight:bold;
+  color: rgba(255,255,255,0.9);
+  text-align: center;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  background: -webkit-linear-gradient(-90deg, rgba(70,122,226,0.88) 0, rgba(0,23,142,0.88) 100%);
+  background: -moz-linear-gradient(180deg, rgba(70,122,226,0.88) 0, rgba(0,23,142,0.88) 100%);
+  background: linear-gradient(180deg, rgba(70,122,226,0.88) 0, rgba(0,23,142,0.88) 100%);
+  background-position: 50% 50%;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-background-size: auto auto;
+  background-size: auto auto;
+  -webkit-box-shadow: 4px 4px 2px 0 rgba(0,0,0,0.2) ;
+  box-shadow: 4px 4px 2px 0 rgba(0,0,0,0.2) ;
+  text-shadow: -1px -1px 0 rgba(15,73,168,0.66) ;
+  -webkit-transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
+  -moz-transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
+  -o-transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
+  transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
+}
+
+
+
+
+
+
+
+
+
+.btn_green,.btn_white,.btn_orange,.btn_blue,.btn_grey{display:inline-block;-webkit-transition:all .3s;transition:all .3s;border-radius:3px;padding:10px
+20px;font-family:'Open Sans',sans-serif;border:0;line-height:24px;text-decoration:none}.btn_green:hover,.btn_orange:hover,.btn_blue:hover,.btn_grey:hover{text-decoration:none;color:#fff}.btn_green i, .btn_white i, .btn_orange i, .btn_blue i, .btn_grey
+i{font-size:24px;float:left;margin-right:15px;line-height:1px}.btn_green{background:#8CC152;color:#fff}.btn_green:hover{background:#A0D468;color:#fff}.btn_white{background:#fff;color:inherit;border:1px
+solid #eff1f1;box-shadow:rgba(123, 123, 123, 0.08) 0px 0px 16px}.btn_white:hover{text-decoration:none;background:#fff;color:inherit}.btn_orange{background:#F6BB42;color:#fff}.btn_orange:hover{background:#FFCE54;color:#fff}.btn_blue{background:#3BAFDA;color:#fff}.btn_blue:hover{background:#4FC1E9;color:#fff}.btn_grey{background:#AAB2BD;color:#fff}.btn_grey:hover{background:#CCD1D9;color:#fff}.bg_green{background:#8CC152;color:#fff}.bg_orange{background:#f6bb42;color:#fff}.bg_blue{background:#3BAFDA;color:#fff}.bg_white{background:#FFF;color:inherit}.bg_grey{background:#AAB2BD;color:#fff}
+
+
+
+</style>
