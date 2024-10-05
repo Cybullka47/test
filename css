@@ -31,6 +31,39 @@ img.emoji {
 }
         .site-title a img { max-height: 80px; }img { -webkit-border-radius: 3px; border-radius: 3px; }body {background: #6d9fbc url(https://thelastgame.ru/wp-content/uploads/2017/07/games_of_201.jpg) no-repeat center center;background-attachment:fixed;background-size: cover;}
 </style>
+<style type="text/css" id="wp-custom-css">
+			/*
+Здесь можно добавить ваши CSS-стили.
+
+Нажмите на значок помощи выше, чтобы узнать больше.
+
+Use this field to test small chunks of CSS code. For important CSS customizations, it is recommended to modify the style.css file of a child theme.
+http//codex.wordpress.org/Child_Themes
+*/
+
+#header {
+    background: none;  
+}
+.nav-wrap{    background: #383636;
+}
+#footer-widgets{
+background: #d5d5d5;
+margin-top:-30px;
+
+}
+#footer{
+    width: auto;
+    max-width: 1600px;	
+    margin: 0 auto;
+}
+
+.pad {padding: 10px 30px 10px}
+.single .post-title {margin-top: -20px;}
+
+@media only screen and (min-width: 720px) {
+.single .post-title { font-size: 30px;}
+}
+		</style>
 <style>		
 	.button {
     display: inline-block;
