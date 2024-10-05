@@ -1,0 +1,64 @@
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<style type="text/css">/* Dynamic CSS: For no styles in head, copy and put the css below in your child theme's style.css, disable dynamic styles */body { font-family:'Ubuntu', Arial, sans-serif;font-size:1.06rem }@media only screen and (min-width: 720px) {
+        .nav > li { font-size:1.06rem; }
+      }.container-inner { max-width: 1600px; }::selection { background-color: #6d9fbc; }
+::-moz-selection { background-color: #6d9fbc; }a,.themeform label .required,#flexslider-featured .flex-direction-nav .flex-next:hover,#flexslider-featured .flex-direction-nav .flex-prev:hover,.post-hover:hover .post-title a,.post-title a:hover,.s1 .post-nav li a:hover i,.content .post-nav li a:hover i,.post-related a:hover,.s1 .widget_rss ul li a,#footer .widget_rss ul li a,.s1 .widget_calendar a,#footer .widget_calendar a,.s1 .alx-tab .tab-item-category a,.s1 .alx-posts .post-item-category a,.s1 .alx-tab li:hover .tab-item-title a,.s1 .alx-tab li:hover .tab-item-comment a,.s1 .alx-posts li:hover .post-item-title a,#footer .alx-tab .tab-item-category a,#footer .alx-posts .post-item-category a,#footer .alx-tab li:hover .tab-item-title a,#footer .alx-tab li:hover .tab-item-comment a,#footer .alx-posts li:hover .post-item-title a,.comment-tabs li.active a,.comment-awaiting-moderation,.child-menu a:hover,.child-menu .current_page_item > a,.wp-pagenavi a{ color: #6d9fbc; }.themeform input[type="submit"],.themeform button[type="submit"],.s1 .sidebar-top,.s1 .sidebar-toggle,#flexslider-featured .flex-control-nav li a.flex-active,.post-tags a:hover,.s1 .widget_calendar caption,#footer .widget_calendar caption,.author-bio .bio-avatar:after,.commentlist li.bypostauthor > .comment-body:after,.commentlist li.comment-author-admin > .comment-body:after{ background-color: #6d9fbc; }.post-format .format-container { border-color: #6d9fbc; }.s1 .alx-tabs-nav li.active a,#footer .alx-tabs-nav li.active a,.comment-tabs li.active a,.wp-pagenavi a:hover,.wp-pagenavi a:active,.wp-pagenavi span.current{ border-bottom-color: #6d9fbc!important; }.s2 .post-nav li a:hover i,
+.s2 .widget_rss ul li a,
+.s2 .widget_calendar a,
+.s2 .alx-tab .tab-item-category a,
+.s2 .alx-posts .post-item-category a,
+.s2 .alx-tab li:hover .tab-item-title a,
+.s2 .alx-tab li:hover .tab-item-comment a,
+.s2 .alx-posts li:hover .post-item-title a { color: #6d9fbc; }
+.s2 .sidebar-top,.s2 .sidebar-toggle,.post-comments,.jp-play-bar,.jp-volume-bar-value,.s2 .widget_calendar caption{ background-color: #6d9fbc; }.s2 .alx-tabs-nav li.active a { border-bottom-color: #6d9fbc; }
+.post-comments span:before { border-right-color: #6d9fbc; }
+        #nav-header.nav-container { background-color: #33363b; }
+@media only screen and (min-width: 720px) {
+  #nav-header .nav ul { background-color: #33363b; }
+}
+        .site-title a img { max-height: 80px; }img { -webkit-border-radius: 3px; border-radius: 3px; }body {background: #6d9fbc url(https://thelastgame.ru/wp-content/uploads/2017/07/games_of_201.jpg) no-repeat center center;background-attachment:fixed;background-size: cover;}
+</style>
+<style type="text/css" id="wp-custom-css">
+			/*
+Здесь можно добавить ваши CSS-стили.
+
+Нажмите на значок помощи выше, чтобы узнать больше.
+
+Use this field to test small chunks of CSS code. For important CSS customizations, it is recommended to modify the style.css file of a child theme.
+http//codex.wordpress.org/Child_Themes
+*/
+
+#header {
+    background: none;  
+}
+.nav-wrap{    background: #383636;
+}
+#footer-widgets{
+background: #d5d5d5;
+margin-top:-30px;
+
+}
+#footer{
+    width: auto;
+    max-width: 1600px;	
+    margin: 0 auto;
+}
+
+.pad {padding: 10px 30px 10px}
+.single .post-title {margin-top: -20px;}
+
+@media only screen and (min-width: 720px) {
+.single
